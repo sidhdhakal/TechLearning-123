@@ -1,0 +1,15 @@
+
+ /*h1{
+    font-style: 
+    italic;
+}
+span{
+    font-weight: bold;
+}
+*/
+*{
+    margin: 5px;
+    border: 10px;
+    background-color: green;
+    color: yellow;
+}
